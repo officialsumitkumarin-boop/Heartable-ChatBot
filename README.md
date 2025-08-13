@@ -65,13 +65,11 @@ Tkinter GUI window will open.
 Type a message in the entry box and press Enter or click Send.
 
 Watch Heartable respond with typing animation and green-colored messages.
-```bash
+``bash
 Author ✨
 Name: Sumit Kumar
-
 University: SBSSU, URN 23303325, CSE'D' Student
-
-Skills: Python, AI, Tkinter, GUI, Songwriting, Shayarii
+Skills: Python, AI, Tkinter, GUI, Songwriting, Shayarii``
 
 Demo / Proof 📹
 Click the preview or button below to watch the full demo video in your browser:
@@ -80,4 +78,4 @@ Click the preview or button below to watch the full demo video in your browser:
 License 📄
 All rights reserved to Sumit Kumar. Unauthorized use or reproduction prohibited.
 
-<p align="center"> Made with ❤️ by <b>Sumit Kumar</b> </p>```
+<p align="center"> Made with ❤️ by <b>Sumit Kumar</b> </p>
