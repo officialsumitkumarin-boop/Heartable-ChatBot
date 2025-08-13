@@ -15,25 +15,24 @@
 ---
 
 ## About the Project 🚀
-Heartable is a **human-coded AI chatbot** that runs on a **Python Tkinter GUI**. It communicates via the **OpenRouter.ai API** and provides:
+Heartable is a **human-coded AI chatbot** that runs on **Python Tkinter GUI**, communicating via **OpenRouter.ai API**.  
 
+Features:  
 - Real-time chat interface with **typing animation** (`. .. ... ....`)  
-- **Green-colored AI replies** for a coder/hacker aesthetic  
-- **Dark black theme** for modern UI  
-- Smooth threading to prevent GUI freeze during AI processing  
+- **Green-colored AI replies**  
+- **Dark theme GUI**  
+- Threaded messaging for responsive UI  
 
-All code is handcrafted manually by **Sumit Kumar**. **All copyrights reserved**.  
+**All code handcrafted by Sumit Kumar. All copyrights reserved.**  
 
 ---
 
 ## How It Works ⚡
-1. User types a message and hits **Enter** or clicks **Send**  
-2. **Typing animation** appears to simulate AI typing  
-3. Message is sent to **OpenRouter.ai API**  
-4. AI response is received and displayed in **green**  
-5. Typing animation stops once AI reply appears  
-
-**Threading** ensures the GUI remains responsive.  
+1. User types a message → Enter / Send  
+2. **Typing animation** appears (`. .. ... ....`)  
+3. Message sent to **OpenRouter.ai API**  
+4. AI response received → displayed in **green**  
+5. Typing animation stops  
 
 ---
 
@@ -41,7 +40,6 @@ All code is handcrafted manually by **Sumit Kumar**. **All copyrights reserved**
 - **Name:** Sumit Kumar  
 - **University:** SBSSU, URN 23303325, CSE'D' Student  
 - **Skills:** Python, AI, Tkinter, GUI, Songwriting, Shayarii  
-- **Fun Fact:** I write Punjabi songs & shayarii  
 
 ---
 
@@ -51,18 +49,17 @@ All code is handcrafted manually by **Sumit Kumar**. **All copyrights reserved**
 </p>
 
 **Demo Video:**  
-<video width="600" controls>
+<video width="600" controls autoplay loop muted playsinline>
   <source src="Proff/💖 Heartable Chatbot 2025-08-13 23-04-21.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+> ⚠️ Note: Some browsers may block autoplay. For guaranteed autoplay, consider converting to GIF.
+
 ---
 
 ## License 📄
-All rights reserved to **Sumit Kumar**.  
-Unauthorized use or reproduction of this code is strictly prohibited.  
-
----
+All rights reserved to **Sumit Kumar**. Unauthorized use is prohibited.  
 
 <p align="center">
   Made with ❤️ by <b>Sumit Kumar</b>
