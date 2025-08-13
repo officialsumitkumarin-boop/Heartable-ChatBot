@@ -44,26 +44,26 @@ To run Heartable locally, you need:
 - **VS Code** or any Python IDE
 - Install required packages via pip:
 
-```bash
+``bash
 pip install requests
-Tkinter is included with Python standard library
+pip install tkinter
+Tkinter is included with Python standard library``
 
+
+``bash 
 Running the Chatbot 💻
 Open VS Code or terminal in the project directory.
-
 Ensure Python 3.10+ is installed and selected.
-
 Run the script:
-
 bash
 Copy code
 python heartable.py
-Tkinter GUI window will open.
+Tkinter GUI window will open.``
 
 Type a message in the entry box and press Enter or click Send.
 
 Watch Heartable respond with typing animation and green-colored messages.
-
+```bash
 Author ✨
 Name: Sumit Kumar
 
@@ -78,4 +78,4 @@ Click the preview or button below to watch the full demo video in your browser:
 License 📄
 All rights reserved to Sumit Kumar. Unauthorized use or reproduction prohibited.
 
-<p align="center"> Made with ❤️ by <b>Sumit Kumar</b> </p> ```
+<p align="center"> Made with ❤️ by <b>Sumit Kumar</b> </p>```
