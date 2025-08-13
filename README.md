@@ -17,7 +17,7 @@
 ## About the Project 🚀
 Heartable is a **AI chatbot** that runs on **Python Tkinter GUI**, communicating via **OpenRouter.ai API**.  
 
-Features:  
+**Features:**  
 - Real-time chat interface with **typing animation** (`. .. ... ....`)  
 - **Green-colored AI replies** for a modern coder look  
 - **Dark black theme** for UI  
@@ -46,3 +46,36 @@ To run Heartable locally, you need:
 
 ```bash
 pip install requests
+Tkinter is included with Python standard library
+
+Running the Chatbot 💻
+Open VS Code or terminal in the project directory.
+
+Ensure Python 3.10+ is installed and selected.
+
+Run the script:
+
+bash
+Copy code
+python heartable.py
+Tkinter GUI window will open.
+
+Type a message in the entry box and press Enter or click Send.
+
+Watch Heartable respond with typing animation and green-colored messages.
+
+Author ✨
+Name: Sumit Kumar
+
+University: SBSSU, URN 23303325, CSE'D' Student
+
+Skills: Python, AI, Tkinter, GUI, Songwriting, Shayarii
+
+Demo / Proof 📹
+Click the preview or button below to watch the full demo video in your browser:
+
+<p align="center"> <a href="https://officialsumitkumarin-boop.github.io/video.io/" target="_blank"> <img src="Proff/Proff.png" alt="Heartable Demo Preview" width="400" style="border:3px solid #00ff00; border-radius:10px; box-shadow:0 0 15px #00ff00;"/> </a> </p> <p align="center"> <a href="https://officialsumitkumarin-boop.github.io/video.io/" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/▶️%20Play%20Heartable%20Demo-blue?style=for-the-badge&logo=video" alt="Play Heartable Demo"/> </a> </p>
+License 📄
+All rights reserved to Sumit Kumar. Unauthorized use or reproduction prohibited.
+
+<p align="center"> Made with ❤️ by <b>Sumit Kumar</b> </p> ```
