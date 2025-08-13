@@ -8,8 +8,8 @@ from tkinter import scrolledtext, font
 import threading
 import requests
 import time
-
-API_KEY = "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"
+# Get api from openrouter.ai
+API_KEY = "Enter Your Api Key"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_ID = "openai/gpt-4o"
 
