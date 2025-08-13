@@ -45,9 +45,11 @@ To run Heartable locally, you need:
 - Install required packages via pip:
 
 # Install required Python package
-pip install requests
+``bash
+pip install requests``
 # Tkinter 
-pip install tkinter
+``bash
+pip install tkinter``
 
 # Running the Chatbot 💻
 # Open VS Code or terminal in the project directory
