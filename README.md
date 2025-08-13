@@ -43,12 +43,8 @@ Features:
 
 ---
 
-## Proof / Demo 📹
-<p align="center">
-  <img src="Proff/Proff.png" alt="Proff" width="300"/>
-</p>
 
-**Demo GIF (Autoplay & Looping):**  
+**Demo:**  
 <p align="center">
   <img src="Proff/💖 Heartable Chatbot 2025-08-13 23-04-21 (1).gif" alt="Heartable Demo" width="600"/>
 </p>
