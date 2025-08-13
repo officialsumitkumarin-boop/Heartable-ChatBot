@@ -51,14 +51,16 @@ pip install requests``
 ``bash
 pip install tkinter``
 
-# Running the Chatbot 💻
-# Open VS Code or terminal in the project directory
-# Ensure Python 3.10+ is installed and selected
+ Running the Chatbot 💻
+ Open VS Code or terminal in the project directory
+ Ensure Python 3.10+ is installed and selected
+# For Run
+``bash
+python heartable-chatbot.py``
 
-python heartable.py
-# Tkinter GUI window will open
-# Type a message in the entry box and press Enter or click Send
-# Watch Heartable respond with typing animation and green-colored messages
+ Tkinter GUI window will open
+ Type a message in the entry box and press Enter or click Send
+ Watch Heartable respond with typing animation and green-colored messages
 
 # Author ✨
 Name: Sumit Kumar
