@@ -43,18 +43,21 @@ Features:
 
 ---
 
-
 ## Demo / Proof 📹
 
-Click the button below to watch the full demo video in your browser (Google Chrome, etc.):
+Click the preview or button below to watch the full demo video in your browser:
 
 <p align="center">
-  <a href="Proff/💖 Heartable Chatbot 2025-08-13 23-04-21.mp4" target="_blank" 
-     style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Play%20Heartable%20Demo-blue?style=for-the-badge&logo=video" alt="Play Heartable Demo"/>
+  <a href="https://officialsumitkumarin-boop.github.io/video.io/" target="_blank">
+    <img src="Proff/Proff.png" alt="Heartable Demo Preview" width="400" style="border:3px solid #00ff00; border-radius:10px; box-shadow:0 0 15px #00ff00;"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://officialsumitkumarin-boop.github.io/video.io/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/▶️%20Play%20Heartable%20Demo-blue?style=for-the-badge&logo=video" alt="Play Heartable Demo"/>
+  </a>
+</p>
 
 ---
 
