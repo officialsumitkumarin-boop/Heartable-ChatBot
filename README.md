@@ -15,13 +15,13 @@
 ---
 
 ## About the Project 🚀
-Heartable is a **human-coded AI chatbot** that runs on **Python Tkinter GUI**, communicating via **OpenRouter.ai API**.  
+Heartable is a **AI chatbot** that runs on **Python Tkinter GUI**, communicating via **OpenRouter.ai API**.  
 
 Features:  
 - Real-time chat interface with **typing animation** (`. .. ... ....`)  
-- **Green-colored AI replies**  
-- **Dark theme GUI**  
-- Threaded messaging for responsive UI  
+- **Green-colored AI replies** for a modern coder look  
+- **Dark black theme** for UI  
+- Threaded messaging to prevent GUI freeze  
 
 **All code handcrafted by Sumit Kumar. All copyrights reserved.**  
 
@@ -48,18 +48,15 @@ Features:
   <img src="Proff/Proff.png" alt="Proff" width="300"/>
 </p>
 
-**Demo Video:**  
-<video width="600" controls autoplay loop muted playsinline>
-  <source src="Proff/💖 Heartable Chatbot 2025-08-13 23-04-21.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> ⚠️ Note: Some browsers may block autoplay. For guaranteed autoplay, consider converting to GIF.
+**Demo GIF (Autoplay & Looping):**  
+<p align="center">
+  <img src="Proff/💖 Heartable Chatbot 2025-08-13 23-04-21 (1).gif" alt="Heartable Demo" width="600"/>
+</p>
 
 ---
 
 ## License 📄
-All rights reserved to **Sumit Kumar**. Unauthorized use is prohibited.  
+All rights reserved to **Sumit Kumar**. Unauthorized use or reproduction prohibited.  
 
 <p align="center">
   Made with ❤️ by <b>Sumit Kumar</b>
